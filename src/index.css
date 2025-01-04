@@ -1,0 +1,16 @@
+:root {
+  --button-padding: 8px 16px;
+  --button-border-radius: 10px;
+  --button-font-weight: bold;
+  --button-margin-start: 16px;
+  --color-primary-bg: #6f7174;
+  --color-primary-text: white;
+  --color-secondary-bg: #ebedf1;
+  --color-secondary-text: rgb(95, 94, 94);
+  --color-danger-bg: #d9534f;
+  --color-danger-text: #fff;
+  --button-small-font-size: 0.875rem;
+  --button-regular-font-size: 1rem;
+  --button-large-font-size: 1.25rem;
+  --button-icon-margin-right: 8px;
+}
